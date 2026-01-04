@@ -81,13 +81,25 @@ stateDiagram-v2
 
 ## 💎 Visual Feature Showcase
 
-### **1. High-Fidelity Overview**
-Experience a real-time pulse of the protocol with our glassmorphic dashboard featuring persistent transaction feeds and institutional charts.
-![Dashboard Overview](/C:/Users/tusha/.gemini/antigravity/brain/1eeab4f5-5df3-434a-b46e-6643191bd901/responsive_dashboard_final_1767523157922.png)
+### **Cinematic Protocol Demo**
+Witness the institutional flow: **Connect Identity** -> **Real-time Analytics** -> **Instant Execution**.
+![Cinematic Walkthrough](assets/demo.webp)
 
-### **2. Mobile Agility**
+---
+
+### **1. High-Fidelity Dashboard**
+Experience a real-time pulse of the protocol with our glassmorphic dashboard featuring persistent transaction feeds and institutional charts.
+![Dashboard Overview](assets/dashboard.png)
+
+### **2. Institutional Markets & Execution**
+Deep liquidity pools with dynamic utilization load bars and instant one-click execution modals.
+| Market Depth | Execution Success |
+| :---: | :---: |
+| ![Markets](assets/markets.png) | ![Success Modal](assets/success_modal.png) |
+
+### **3. Mobile Agility**
 The entire vault ecosystem is engineered for the palm of your hand, featuring a custom animated navigation mesh.
-![Mobile Experience](/C:/Users/tusha/.gemini/antigravity/brain/1eeab4f5-5df3-434a-b46e-6643191bd901/mobile_menu_open_1767522800400.png)
+![Mobile Experience](assets/mobile_menu.png)
 
 ---
 
